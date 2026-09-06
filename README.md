@@ -22,7 +22,8 @@ The project applies two core principles across all roles:
 - [`docs/role-matrix.md`](docs/role-matrix.md) — role definitions, access levels, and justifications per department
 - [`docs/access-review-procedures.md`](docs/access-review-procedures.md) — how access would be periodically reviewed and revalidated
 
+## Part 2: AWS Implementation\nI extended this project by implementing the RBAC model in AWS IAM, testing access boundaries with the Policy Simulator, and enabling MFA. See the [full case study](docs/aws-iam-case-study.md)
+
 ## Note
 This is a self-directed practice project built after completing the Google Cybersecurity Certificate (June 2026), created to apply IAM concepts hands-on rather than just study them.
 
-## Part 2: AWS Implementation\nI extended this project by implementing the RBAC model in AWS IAM, testing access boundaries with the Policy Simulator, and enabling MFA. See the [full case study](docs/aws-iam-case-study.md)
